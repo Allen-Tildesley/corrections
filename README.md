@@ -1,5 +1,6 @@
 # Corrections
-Corrections to the text of the book "Computer Simulation of Liquids"
+Corrections to the text of the book
+[Computer Simulation of Liquids](https://global.oup.com/academic/product/computer-simulation-of-liquids-9780198803201),
 by Michael P. Allen and Dominic J. Tildesley
 (2nd edition, Oxford University Press, 2017)
 
@@ -7,7 +8,8 @@ by Michael P. Allen and Dominic J. Tildesley
 The authors intend to maintain a
 [list of errata and other corrections](./errata.pdf) here.
 Please feel free to notify us of any mistakes,
-ideally via the [Issues page](https://github.com/Allen-Tildesley/corrections/issues)
+ideally via the [Issues](https://github.com/Allen-Tildesley/corrections/issues) tab above
+(you will need to be signed into GitHub to do this).
 
 ## Caveat
 This repository is solely intended for correction of errors in the text.
