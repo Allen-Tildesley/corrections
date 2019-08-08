@@ -7,9 +7,11 @@ by Michael P. Allen and Dominic J. Tildesley
 ## Errata
 The authors intend to maintain a
 [list of errata and other corrections](./errata.pdf) here.
-Please feel free to notify us of any mistakes,
-ideally via the [Issues](https://github.com/Allen-Tildesley/corrections/issues) tab above
-(you will need to be signed into GitHub to do this).
+Please feel free to notify us of any mistakes:
+first check the [CONTRIBUTING](CONTRIBUTING.md) guidelines,
+and then raise an "issue" using
+the [Issues](https://github.com/Allen-Tildesley/corrections/issues) tab above.
+(You will need to be signed into GitHub to do this).
 
 ## Caveat
 This repository is solely intended for correction of errors in the text.
